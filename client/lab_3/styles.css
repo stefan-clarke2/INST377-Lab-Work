@@ -33,7 +33,7 @@
     align-items: center;
   }
   .photo-grid-container {
-    background-color: #d6e9fe;
+    background-color: white;
     display: flex;
     justify-content: center;
   }
@@ -43,7 +43,7 @@
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: center;
   }
   
@@ -85,7 +85,7 @@
 }
 
 body {
-  background-color: #d6e9fe;
+  background-color: white;
 }
 
 * {
